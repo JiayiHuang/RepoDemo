@@ -1,0 +1,3 @@
+[submodule "RepoLibBase"]
+	path = RepoLibBase
+	url = https://github.com/JiayiHuang/RepoLibBase.git
